@@ -1,0 +1,42 @@
+[
+  {
+    "commit": "7fab1170f35f950624cca0998b6736137e85833a",
+    "fixture": "accessible",
+    "initialValue": "first line\nsecond line",
+    "requestedValue": "New nickname",
+    "finalValue": "first line\nsecond lineNew nickname",
+    "unrelatedToolbarClicks": 0,
+    "cliExitCode": 0,
+    "keyboardWrites": 1
+  },
+  {
+    "commit": "7fab1170f35f950624cca0998b6736137e85833a",
+    "fixture": "decoy",
+    "initialValue": "first line\nsecond line",
+    "requestedValue": "New nickname",
+    "finalValue": "first line\nsecond lineNew nickname",
+    "unrelatedToolbarClicks": 1,
+    "cliExitCode": 0,
+    "keyboardWrites": 1
+  },
+  {
+    "commit": "8087141aee5dba23c4d232d07a378240c84dd587",
+    "fixture": "accessible",
+    "initialValue": "first line\nsecond line",
+    "requestedValue": "New nickname",
+    "finalValue": "New nickname",
+    "unrelatedToolbarClicks": 0,
+    "cliExitCode": 0,
+    "keyboardWrites": 1
+  },
+  {
+    "commit": "8087141aee5dba23c4d232d07a378240c84dd587",
+    "fixture": "decoy",
+    "initialValue": "first line\nsecond line",
+    "requestedValue": "New nickname",
+    "finalValue": "New nickname",
+    "unrelatedToolbarClicks": 0,
+    "cliExitCode": 0,
+    "keyboardWrites": 1
+  }
+]
